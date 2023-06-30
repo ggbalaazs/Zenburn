@@ -287,7 +287,7 @@ hi SpecialComment  guifg=#82a282 gui=bold                     ctermfg=108 cterm=
 hi Special         guifg=#cfbfaf                              ctermfg=181
 hi SpecialKey      guifg=#9ece9e                              ctermfg=151
 hi Statement       guifg=#e3ceab gui=none                     ctermfg=187 cterm=none
-hi StatusLine      guifg=#313633 guibg=#ccdc90                ctermfg=236 ctermbg=186
+hi StatusLine      guifg=#313633 guibg=#8f8580                ctermfg=236 ctermbg=186
 hi StatusLineNC    guifg=#2e3330 guibg=#88b090                ctermfg=235 ctermbg=108
 hi StorageClass    guifg=#c3bf9f gui=bold                     ctermfg=249 cterm=bold
 hi String          guifg=#cc9393                              ctermfg=174
